@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "d0523b69f4257fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "5439d9d13fee4a4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "523046e08c203a12",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Без названия 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bbd42fce3f910ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cd55133d9375e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaf5815016050f7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "f140e16163753a0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "db300b14728aec88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "10d52dc622048d8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d490367010696f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e3e7ea7539f8c84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ИсОп/Векторная форма ограничений задачи ЛП.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Векторная форма ограничений задачи ЛП"
+            }
+          },
+          {
+            "id": "cb8508dbfc539e4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ИсОп/Векторная форма ограничений задачи ЛП.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Векторная форма ограничений задачи ЛП"
+            }
+          },
+          {
+            "id": "c35d66b612026e3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "1862c56478e3b681",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1862c56478e3b681",
+  "lastOpenFiles": [
+    "2024-10-30.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "ЭВМ/Плата управления матрицы.md",
+    "ЭВМ/Блок обработки изображения.md",
+    "ЭВМ/Блок питания.md",
+    "ЭВМ/Инвертор питания.md",
+    "ЭВМ/Фильтры.md",
+    "ЭВМ/Лицевая панель.md",
+    "ЭВМ/Монитор.md",
+    "ЭВМ/Крышка панели.md",
+    "ЭВМ/Крышка корпуса.md",
+    "ЭВМ/Задняя крышка панели и газоразрядные лампы.md",
+    "ЭВМ/Задняя крышка монитора.md",
+    "ЭВМ/ЖК-матрица.md",
+    "ЭВМ/Дисплей.md",
+    "ИсОп/Смешанные условия задачи линейного программирования.md",
+    "ИсОп/Задача линейного программирования.md",
+    "ЭВМ/Photos_v8QLha7UfD.png",
+    "ЭВМ/Photos_TzEQcWWgAc.png",
+    "ЭВМ/Photos_lyhSRnqtF5.png",
+    "ЭВМ/Pasted image 20241028160639.png",
+    "ЭВМ/Pasted image 20241028160740.png",
+    "ЭВМ/Pasted image 20241028160805.png",
+    "ЭВМ/Pasted image 20241028160824.png",
+    "ЭВМ/Photos_8cpVotnVNq.png",
+    "ЭВМ/Photos_fGyZKaBjZy.png",
+    "ЭВМ/Photos_fHP4qQjpJC.png",
+    "ИсОп/Базис.md",
+    "ИсОп/Допустимое множество решений (R).md",
+    "ИсОп/Оптимальное решение.md",
+    "ИсОп/Допустимое базисное решение.md",
+    "ЭВМ",
+    "ИсОп/Переход между базисными решениями.md",
+    "ИсОп/Полупространство.md",
+    "ИсОп/Прямая и двойственная задачи.md",
+    "ИсОп/Симплекс-разности.md",
+    "ИсОп/Экономическая интерпретация задачи ЛП.md",
+    "e9771827-5ea2-4aff-ad6a-25117e9264f9 1",
+    "e9771827-5ea2-4aff-ad6a-25117e9264f9",
+    "3e5153e8-93af-4bd2-873b-968e73cd202f",
+    "ИсОп"
+  ]
+}
